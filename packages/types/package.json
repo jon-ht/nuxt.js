@@ -25,7 +25,7 @@
     "@types/sass-loader": "8.0.2",
     "@types/serve-static": "1.13.10",
     "@types/terser-webpack-plugin": "4.2.1",
-    "@types/webpack": "4.41.30",
+    "@types/webpack": "4.41.31",
     "@types/webpack-bundle-analyzer": "3.9.3",
     "@types/webpack-dev-middleware": "4.1.2",
     "@types/webpack-hot-middleware": "2.25.5",
